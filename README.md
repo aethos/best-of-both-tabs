@@ -4,6 +4,10 @@ Best of Both Tabs is a chrome extension that provides you with a side-by-side vi
 
 ### Installation
 
+Now on the Chrome Web Store! Just click add to chrome:
+https://chrome.google.com/webstore/detail/best-of-both-tabs/mngfenbcjipmdebbhcnngdkimfnemjim
+
+Manual:
 1. Download and unzip.
 2. Go to chrome://extensions
 3. Check the box "Developer mode" on the upper right.
