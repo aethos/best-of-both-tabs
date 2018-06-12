@@ -2,6 +2,8 @@
 
 Best of Both Tabs is a chrome extension that provides you with a side-by-side view of the desktop and mobile web version of a website.
 
+![screenshot](img/screenshot.png?raw=true "screenshot")
+
 ### Installation
 
 Now on the Chrome Web Store! Just click add to chrome:
